@@ -1,6 +1,6 @@
 # basic-opc-example [BROKEN]
 
-> Basic OPC example using node-opc
+> Basic OPC client and server example using node-opcua 
 
 ### This example is broken and doesn't work. In fact, it has never worked.
 
