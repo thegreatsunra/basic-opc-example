@@ -21,12 +21,10 @@ cd basic-opc-example
 yarn
 ```
 
-4) (optional) replace the contents of the `/public` folder with your static site
-
-5) run the app
 
 ```bash
-npm start
+node opc-server.js
+node opc-client.js
 ```
 
 ## License
