@@ -1,6 +1,8 @@
-# basic-express-server
+# basic-opc-example [BROKEN]
 
-> basic-express-server
+> Basic OPC example using node-opc
+
+### This example is broken and doesn't work. In fact, it has never worked.
 
 ## Getting started
 
@@ -9,8 +11,8 @@
 2) clone this repo
 
 ```bash
-git clone https://github.com/thegreatsunra/basic-express-server.git
-cd basic-express-server
+git clone https://github.com/thegreatsunra/basic-opc-example.git
+cd basic-opc-example
 ```
 
 3) install dependencies

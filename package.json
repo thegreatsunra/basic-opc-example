@@ -1,11 +1,11 @@
 {
-  "name": "basic-express-server",
-  "description": "basic-express-server",
   "version": "0.2.0",
-  "homepage": "https://github.com/thegreatsunra/basic-express-server",
+  "name": "basic-opc-example",
+  "description": "basic-opc-example",
+  "homepage": "https://github.com/thegreatsunra/basic-opc-example",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thegreatsunra/basic-express-server.git"
+    "url": "https://github.com/thegreatsunra/basic-opc-example.git"
   },
   "author": "Dane Petersen <thegreatsunra@gmail.com>",
   "license": "MIT",
