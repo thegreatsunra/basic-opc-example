@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "async": "^2.4.1",
-    "express": "^4.15.3",
     "node-opcua": "^0.0.64"
   },
   "devDependencies": {
