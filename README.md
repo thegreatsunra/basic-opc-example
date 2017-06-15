@@ -21,6 +21,7 @@ cd basic-opc-example
 yarn
 ```
 
+4) run the opc server and client
 
 ```bash
 node opc-server.js
